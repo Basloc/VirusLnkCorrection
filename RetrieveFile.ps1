@@ -56,4 +56,4 @@ foreach ($drive in $usbDrives) {
 
 Write-Host "---------- Nettoyage termine ----------" -ForegroundColor Green
 
-
+Start-Sleep -Seconds 10
